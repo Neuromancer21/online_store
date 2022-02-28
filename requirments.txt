@@ -1,0 +1,5 @@
+Dango
+django-rest-framework
+Pillow
+psycopg2-binary
+python-decouple
